@@ -9,7 +9,7 @@ Java, Junit, Selenium,Gradle
 ## Technology Used Website:
 HTML, bootstrap, PHPmyAdmin
 
-##How To Run HTML Page with DB?
+## How To Run HTML Page with DB?
 1. Install XAMPP from https://www.apachefriends.org/download.html
 2. Start Apache and MySQL modules
 3. Go to http://localhost/phpmyadmin/
