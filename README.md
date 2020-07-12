@@ -14,11 +14,11 @@ HTML, bootstrap, PHPmyAdmin
 2. Start Apache and MySQL modules
 3. Go to http://localhost/phpmyadmin/
 4. Create new table under "test" structure by following SQL command:  
-"CREATE TABLE employees (
+CREATE TABLE employees (
 id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 name VARCHAR(100) NOT NULL,
 email VARCHAR(255) NOT NULL,
-phone INT(10) NOT NULL );"
+phone INT(10) NOT NULL );
 5. Put "EmployeesDetails" folder under C:\xampp\htdocs
 6. Go to http://localhost/EmployeesDetails/index.php
 
