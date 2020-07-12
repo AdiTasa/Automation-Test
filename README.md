@@ -31,7 +31,7 @@ This project will help to test web  using automation to reduce the manual time
 
 | Test name                              | Description                                                                           | Location                        |
 |----------------------------------------|---------------------------------------------------------------------------------------|---------------------------------|
-| clickNewBtn_entersValidData_employeeCreated    |Create new employee with valid details, Make sure employee is created|            | CreateEmployeeTest.java |
+| clickNewBtn_entersValidData_employeeCreated    |Create new employee with valid details, Make sure employee is created| CreateEmployeeTest.java |
 | clickDeleteBtn_employeeDeleted | Delete existing employee, Make sure employee is deleted                     | DeleteEmployeeTest.java |
 | clickUpdateBtn_enterValidData_employeeDataUpdated | Update existing employee with valid details, Make sure employee is updated                         | UpdateEmployeeTest.java |
 | clickViewBtn_employeeDataDisplayed       | View existing employee, Make sure employee data is displayed as expected                            | ViewEmployeeDataTest.java            |
