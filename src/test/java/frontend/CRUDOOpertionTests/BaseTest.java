@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class BaseTest {
 
-    public static String testUrl = "http://localhost/HomeWork/index.php";
+    public static String testUrl = ""http://localhost/EmployeesDetails/index.php"";
     public static WebDriver driver;
     public static DeleteEmployee deleteEmployee;
     public static CreateEmployeeTest newEmployee;
